@@ -7,7 +7,7 @@ People spend the majority of their free time scrolling on social media timelessl
 ## UX Team Members
 
 * **[Alessandro Sisniegas](https://usabilityengineering.github.io/ux-journal-alessandrosisniegas/)** - Heuristic Evaluation Sketches with Design and Feedback.
-* **[Elijah Beverley](https://usabilityengineering.github.io/ux-journal-enb9/)** - !!!List of Person B's primary contributions!!!
+* **[Elijah Beverley](https://github.com/UsabilityEngineering/portfolio-enb9)** - Heuristic Evaluation Sketches with Design
 
 
 # User-Centered Design Artifacts
