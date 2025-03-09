@@ -21,7 +21,14 @@ People spend the majority of their free time scrolling on social media timelessl
 
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
+- Competitive analysis showed that existing solutions focus on **blocking distractions** rather than **encouraging intentional time use** through positive habit formation.  
+- Heuristic evaluation of competitor **Way of Life** showed strength in tracking but weakness in **engagement mechanics and community-driven motivation.**  
+- Users require a balance between structure and flexibility, preferring tools that provide **personalized prompts** rather than strict restrictions.  
+- Gamification and **progress tracking (streaks, rewards, community interaction)** increase user engagement and motivation.  
+- Development of personas and scenarios reinforced key insights:  
+  - Users prefer a **proactive, guidance-based app** over one that simply blocks distractions.  
+  - Customization, **reminders, and visual progress tracking** are essential for long-term adoption.  
+- The Sketches and Diagrams implement a visually engaging interface with **personalized activity** suggestions, **gamification elements (streaks, badges, leaderboards)**, and intuitive **progress tracking** to encourage intentional time use.
 
 [Full phase I report](phaseI/)
 
