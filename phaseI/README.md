@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Redeeming Time is an application designed to help users become more intentional with their free time by reducing unproductive social media usage. The app provides personalized daily prompts, progress tracking, and gamification features such as streaks and community competition to encourage meaningful activities. By nudging users toward goal oriented behavior, Redeeming Time aims to enhance productivity, mindfulness, and community engagement.
+Redeeming Time is an application designed to help users become more intentional with their free time by reducing unproductive social media usage. The app provides personalized daily prompts, progress tracking, and gamification features such as streaks and community competition to encourage meaningful activities. By nudging users toward goal-oriented behavior, Redeeming Time aims to enhance productivity, mindfulness, and community engagement.
 
 ## Methods
 
@@ -18,7 +18,7 @@ Finally, we performed sketching and ideation to design an intuitive interface th
 
 ## Findings
 
-Through competitive analysis, our UX team found that the demographic that may use "Redeeming The Time" includes those who struggle with time management and seek structured guidance to improve productivity. For individuals striving to keep track of their habits, organize tasks, and create long-term goals, “Redeeming The Time” is a beneficial app.  Based on our competitive analysis, we were able to find the strengths and weaknesses of  “Way of Life”, “One Sec, and “Intention”. These apps introduce a 10-second pause before accessing selected apps, encouraging mindful usage, but they do not allow users to join a community or receive long-term habit reinforcement.
+Through competitive analysis, our UX team found that the demographic that may use "Redeeming The Time" includes those who struggle with time management and seek structured guidance to improve productivity. For individuals striving to keep track of their habits, organize tasks, and create long-term goals, “Redeeming The Time” is a beneficial app.  Based on our competitive analysis, we were able to find the strengths and weaknesses of  “Way of Life”, “One Sec", and “Intention”. These apps introduce a 10-second pause before accessing selected apps, encouraging mindful usage, but they do not allow users to join a community or receive long-term habit reinforcement.
 
   Findings from our heuristic evaluation of the “Way of Life” app indicated a very clear status by using red for bad habits and green for good habits while using real-world user tracking. They used red for their check mark (yes) and green for their x (no). This showed that the app performed well in system visibility and real-world matching, scoring 8 out of 10 on our heuristic evaluation scale. However, the application scored lower (6 out of 10) in critical areas, including recognition, flexibility, efficiency, and error prevention. The app could benefit from more warning signs and confirmation prompts before users delete habits, which would help prevent accidental deletions and improve user confidence. Users unfamiliar with the icons find navigation difficult. Adding clearer labels or tooltips could enhance usability and reduce confusion. While users can manually set their schedules, greater personalization—such as automated recommendations based on habits—could improve efficiency and user engagement.
   
