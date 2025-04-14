@@ -36,7 +36,14 @@ People spend the majority of their free time scrolling on social media timelessl
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+- Two independent cognitive walkthroughs using the **Jerry Anderson persona** revealed key usability issues in the login flow, dashboard clarity, and activity interaction feedback.  
+- Evaluators found the app's core structure intuitive but noted **confusion due to unclear labels**, lack of feedback when starting activities, and ambiguous terminology like “Favorites” and “User Reviews.”  
+- The **reward screen (badges, streaks, leaderboard)** was well received and validated the value of gamification for long-term engagement and motivation.  
+- Key design updates include:  
+  - **Reordering login fields** to follow standard conventions (username before password)  
+  - **Adding confirmation steps and descriptions** before starting an activity  
+  - **Improving terminology** and adding microcopy or tooltips to clarify dashboard features  
+- These refinements will ensure that the interaction flow is more predictable, the interface communicates clearly, and the app better supports **intentional time use through guided, motivational features.**  
 
 [Full phase II report](phaseII/)
 
