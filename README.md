@@ -6,8 +6,8 @@ People spend the majority of their free time scrolling on social media timelessl
 
 ## UX Team Members
 
-* **[Alessandro Sisniegas](https://usabilityengineering.github.io/ux-journal-alessandrosisniegas/)** - Heuristic Evaluation Sketches with Design and Feedback.
-* **[Elijah Beverley](https://github.com/UsabilityEngineering/portfolio-enb9)** - Heuristic Evaluation Sketches with Design
+* **[Alessandro Sisniegas](https://usabilityengineering.github.io/ux-journal-alessandrosisniegas/)** - Contributed 50% of all research, design, prototyping, and testing work throughout the project.
+* **[Elijah Beverley](https://github.com/UsabilityEngineering/portfolio-enb9)** - Contributed 50% of all research, design, prototyping, and testing work throughout the project.
 
 
 # User-Centered Design Artifacts
@@ -15,7 +15,7 @@ People spend the majority of their free time scrolling on social media timelessl
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/DjvfgGfeNxMuRq7A8EOgy6/Redeeming-The-Time-Prototype?node-id=0-1&t=mu4tulNhRBLDPADQ-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -51,6 +51,12 @@ People spend the majority of their free time scrolling on social media timelessl
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+- Six participants completed a structured usability test using our prototype. Each user performed five core tasks and shared real time thoughts using a think-aloud protocol.  
+- The login experience was consistently rated as intuitive and aligned well with user expectations.  
+- Participants understood the dashboard at a glance but expressed confusion with the **\"View All Data\"** button and desired clearer insight into what leisure time means.  
+- On the activities page, **Favorites** and **User Reviews** were well received but often missed due to their low placement. Terminology like **\"Pomodoro\"** also required more explanation.  
+- The **rewards page (badges, streaks, leaderboard)** was considered motivating, but navigation redundancies and a lack of clarity in how rewards are earned reduced effectiveness.  
+- Participants found the overall concept strong and the UI polished but requested improvements in button labeling, navigation consistency, and interactivity cues.  
+- This testing validated key parts of the design (gamification, progress tracking) and identified targeted areas for future refinement.
 
 [Full phase III report](phaseIII/)
