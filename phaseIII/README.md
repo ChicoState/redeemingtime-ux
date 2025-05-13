@@ -8,7 +8,7 @@ In Phase III, we conducted a usability evaluation of our prototype for **Redeemi
 
 ### Overall Approach
 
-We used a **formative, think-aloud usability study** with six participants representing our target users. Each participant was guided through a series of scripted tasks using our interactive prototype. Sessions were moderated for note-taking purposes. Observations, completion success, and subjective ease ratings were logged in a structured spreadsheet.
+We used a **formative, think-aloud usability study** with six participants representing our target users. Our interactive prototype guided Each participant through a series of scripted tasks. Sessions were moderated for note-taking purposes. Observations, completion success, and subjective ease ratings were logged in a structured spreadsheet.
 
 ### Tasks and UX Goals
 
@@ -60,27 +60,17 @@ All participant task data and comments are summarized in our data spreadsheet.
 
 ## Conclusions
 
-### A.) Recommended Changes
+The usability evaluation of the Redeeming The Time prototype brought clarity, revealing that the application needs to be re-evaluated and improved. Through the five tasks given, participants generally successfully navigated the core features, especially the login flow, which all participants completed successfully with a perfect score. However, when asked to do more intricate tasks, we received mixed emotions, including interacting with the dashboard and certain gamification aspects.  While most users were able to locate features like “Favorites,” “User Reviews,” and “Badges,” there was a notable drop in scores and completion rates for tasks that required engaging with layered or nested information. Prime examples are the “View All Data” button and the placement of favorites and reviews.
 
-- Fix or remove non-functional buttons like “View All Data”
-- Move “Favorites” and “User Reviews” higher on the activities page
-- Add microcopy or tooltips to terms like “Pomodoro” or “Leaderboard”
-- Clarify redundant icons or sections on the rewards page
-- Implement confirmation or feedback when starting activities
-
-### B.) Features to Keep
-
-- Login screen and its flow
-- Summary dashboard showing productive vs. leisure time
-- Rewards system: streaks, badges, leaderboard
-- Aesthetic and conceptual design
+Users did not understand how to earn rewards and streaks. The main takeaways are that although the app's foundation is solid, it needs to be refined further, specifically by providing positive or negative feedback for the user through the application. To work through these findings, running another user test to confirm the changes we plan to implement and understand how a user may use the app would be very beneficial.
 
 ### Caveats
 
-- Some prototype buttons were not functional, which affected user understanding
-- Participants mostly reflected college student and freelancer demographics, not all personas
-- Observations were collected via moderated think-aloud sessions only; unmoderated testing might yield different insights
-- The evaluation focused on early design feedback, not performance metrics
+After completing the evaluation, multiple limitations must be acknowledged. The prototype, which was tested through Figma, was not fully interactive. It could not simulate real-time responses and provide active feedback, which impacted the user's perception of the application's interactivity and fullness. Due to these constraints, we could not get data on long-term engagements and discoverability that you would measure over time. The sample size was not random and lacked diversity. It did not represent the audience we are striving to use the application.
+
+All the users who used our prototype were male, which showed bias in their understanding and behavior towards the app. We cannot generalize what we learned since we did not have female users and a greater age representation. Redeeming Time is designed for a broad audience, including professionals, parents, and non-technical users. Our findings provide only a partial view of its usability across target areas. 
+
+
 
 ### Files Included
 
